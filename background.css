@@ -1,0 +1,83 @@
+
+body {
+
+    background-color: #ffffff;
+    margin: 25px 0 0 40px;
+}
+
+.borders {
+    margin-left: 210px;
+}
+
+.pineapple_bg {
+    background-image: url("fuck.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+
+    position: relative;
+    z-index: 3;
+    margin-top: 0;
+}
+
+.articles_bg {
+    background-image: url("articles.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+
+    position: relative;
+    z-index: 2;
+    top: -300px;
+}
+
+.blog_bg {
+    background-image: url("blog.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+
+    position: relative;
+    z-index: 1;
+    top: -450px;
+}
+
+.link_bg {
+    background-image: url("links.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+
+    position: relative;
+    z-index: 0;
+    top: -600px;
+}
+
+.balls_bg {
+    background-image: url("balls.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+
+    position: relative;
+    z-index: 1;
+    top: -900px;
+}
+
+.footer_bg {
+    background-image: url("footer.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1865px;
+    height: auto;
+
+    position: relative;
+    z-index: 0;
+    top: -1000px;
+    left: -40px;
+}
